@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JoNoC0/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/JoNoC0/jest-another-RPG#readme"
+  "homepage": "https://github.com/JoNoC0/jest-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
